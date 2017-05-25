@@ -48,7 +48,7 @@ public class DataActivity extends AppCompatActivity {
                 float op2 = Float.parseFloat(etOp2.getText().toString());
                 float result = 0;
 
-                result = op1 * op2;
+                result = op1 * op2 /2;
 
                 Intent intencao = new Intent(this, EndActivity.class);
                 intencao.putExtra("result", result);
