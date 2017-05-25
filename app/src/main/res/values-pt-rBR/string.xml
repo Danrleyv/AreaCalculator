@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculadora de Área</string>
+    <string name="forms">Selecione uma forma geométrica</string>
+    <string name="square">Quadrado</string>
+    <string name="trian">Tringulo</string>
+    <string name="circle">Círculo</string>
+    <string name="rad">Raio</string>
+    <string name="base">Base</string>
+    <string name="height">Altura</string>
+    <string name="area">Área: </string>
+    <string name="next">Próximo</string>
+    <string name="back">Começar Novamente</string>
+    <string name="error1">Por favor, selecione uma forma</string>
+    <string name="error2">Todos os campos devem ser preenchidos</string>
+</resources>

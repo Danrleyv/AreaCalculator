@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Area Calculator</string>
+    <string name="forms">Select a geometric form</string>
+    <string name="square">Square</string>
+    <string name="trian">Triangle</string>
+    <string name="circle">Circle</string>
+    <string name="rad">Radius</string>
+    <string name="base">Base</string>
+    <string name="height">Height</string>
+    <string name="area">Area: </string>
+    <string name="next">Next</string>
+    <string name="back">Start Again</string>
+    <string name="error1">Please, select a form</string>
+    <string name="error2">Every field must be filled</string>
+</resources>
